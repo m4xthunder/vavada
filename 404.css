@@ -1,0 +1,44 @@
+body{
+    background: #333333;
+    padding: 0;
+    margin: 0;  
+}
+.backgound{
+	width: 100%;
+	
+	height: auto;
+}
+.h1{
+	text-align: center;
+    font-size: 150px;
+    color: #ffffff;
+}
+.error{
+	color: #ffffff;
+	text-align: center;
+	font-size: 50px;
+}
+.text{
+	color: #ffffff;
+	font-size: 25px;
+	text-align: center;
+}
+.index{
+	border: 1px solid #00a98f;
+	border-radius: 5px;
+	padding: 12px 20px;
+	margin: 0 auto;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 23px;
+}
+.index:hover{
+	background: #00a98f;
+}
+.flex{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	text-align: center;
+}
